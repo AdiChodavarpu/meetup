@@ -1,7 +1,8 @@
 import React from 'react'
 
 const ChangeContext = React.createContext({
-  isRegistered: false,
+  isRegistered: true,
+  CourseDetails: {},
   updateRegistration: () => {},
 })
 

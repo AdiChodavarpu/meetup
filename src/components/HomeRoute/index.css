@@ -24,11 +24,26 @@
   margin: 5px;
 }
 
+.welcome-heading {
+  color: #2563eb;
+  font-size: 55px;
+  font-family: 'Roboto';
+  margin: 0px;
+}
+
 .meet-description {
   color: #475569;
   font-size: 20px;
   font-family: 'Roboto';
   margin: 15px;
+}
+
+.Welcome-description {
+  color: #475569;
+  font-size: 26px;
+  font-family: 'Roboto';
+  margin: 5px;
+  font-weight: bold;
 }
 
 .registerBtn {
